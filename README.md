@@ -33,5 +33,45 @@ Ollama supports a list of models available on [ollama.com/library](https://ollam
 ### Algomate UI
 ![Algomate SS](https://github.com/kaustuv-d/Algomate/blob/main/Algomate_working01.png)
 
+
+### Steps in Detail
+
+1. **Download Ollama:**
+   - Go to [Ollama's website](https://ollama.ai).
+   - Follow the instructions to download the necessary files for your operating system.
+
+2. **Clone the Repository:**
+   - Open your terminal or command prompt.
+   - Run the following command to clone the repository:
+     ```bash
+     git clone https://github.com/yourusername/algomate.git
+     cd algomate
+     ```
+
+3. **Create and Activate a Virtual Environment:**
+   - Run the following commands to create and activate a virtual environment:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+     ```
+
+4. **Install the Dependencies:**
+   - Install the required Python packages using pip:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+5. **Run the Server:**
+   - Start the Django development server:
+     ```bash
+     python manage.py runserver
+     ```
+
+6. **Access the Application:**
+   - Open your web browser and navigate to `http://localhost:8000` to use Algomate.
+
+Following these instructions, you can set up and run the Algomate app on your local machine.
+
+
 ## Creators:
 - Kaustuv Devmishra (Mechanical Engineering Dept., IIT Indore)
