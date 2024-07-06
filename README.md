@@ -32,3 +32,6 @@ Ollama supports a list of models available on [ollama.com/library](https://ollam
 
 ### Algomate UI
 ![Algomate SS](https://github.com/kaustuv-d/Algomate/blob/main/Algomate_working01.png)
+
+## Creators:
+- Kaustuv Devmishra (Mechanical Engineering Dept., IIT Indore)
