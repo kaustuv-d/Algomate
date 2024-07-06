@@ -3,7 +3,7 @@
 
 Algomate is a powerful virtual coding assistant that supports queries and doubts in multiple programming languages. It is built by fine-tuning the LLM, CodeLlama, under the LlamA 2.0 llm framework. Algomate is deployed on a local host using HTML, CSS, and Django.
 
-![Algomate SS](https://github.com/kaustuv-d/Algomate/blob/main/Algomate_working01.png)
+
 
 
 ## Key Features:
@@ -30,3 +30,5 @@ Ollama supports a list of models available on [ollama.com/library](https://ollam
 - [MindsDB](https://github.com/mindsdb/mindsdb/blob/staging/mindsdb/integrations/handlers/ollama_handler/README.md) (Connects Ollama models with nearly 200 data platforms and apps)
 - [chromem-go](https://github.com/philippgille/chromem-go/blob/v0.5.0/embed_ollama.go) with [example](https://github.com/philippgille/chromem-go/tree/v0.5.0/examples/rag-wikipedia-ollama)
 
+### Algomate UI
+![Algomate SS](https://github.com/kaustuv-d/Algomate/blob/main/Algomate_working01.png)
