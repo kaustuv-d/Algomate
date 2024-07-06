@@ -1,2 +1,5 @@
 langchain
-gradio
+django
+requests
+json
+os
