@@ -10,7 +10,7 @@ Algomate is a powerful virtual coding assistant that supports queries and doubts
 - Built by fine-tuning the LLM- codellama, over Llama 2.
 - Deployed on a local host with a user-friendly UI using Django.
 
-## Technologies Used
+## Techstack Used:
 
 - **Large Language Model**: codellama (fine-tuned over LLaMA 2.0)
 - **Backend**: Django (python)
