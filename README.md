@@ -2,7 +2,10 @@
 ## Overview
 
 Algomate is a powerful virtual coding assistant that supports queries and doubts in multiple programming languages. It is built by fine-tuning the LLM, CodeLlama, under the LlamA 2.0 llm framework. Algomate is deployed on a local host using HTML, CSS, and Django.
+
 ![Algomate SS](https://github.com/kaustuv-d/Algomate/blob/main/Algomate_working01.png)
+
+
 ## Key Features:
 
 - Supports multiple programming languages like C/C++, Python, Java, JavaScript etc,.
