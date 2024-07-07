@@ -71,7 +71,8 @@ Ollama supports a list of models available on [ollama.com/library](https://ollam
    - Open your web browser and navigate to `http://localhost:8000` to use Algomate.
 
 Following these instructions, you can set up and run the Algomate app on your local machine.
-
+## Deployment
+This app is deployed using Vercel. Vercel provides a seamless experience for deploying and managing applications with ease.
 
 ## Creators:
 - Kaustuv Devmishra (Mechanical Engineering Dept., IIT Indore)
