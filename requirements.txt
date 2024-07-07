@@ -1,7 +1,6 @@
 langchain
 django
 requests
-os
 gunicorn
 asgiref
 
